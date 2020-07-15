@@ -2,12 +2,22 @@
 /*logo*/
 .logo {
     background: url(logo.png);
-    width: 320px;
-    height: 75px;
+    width: 337px;
+    height: 71px;
 
   }
 
  
+/*navbar*/
+  .cr{
+	  height:3px;
+	  background-color: orangered;
+  }
+  .pr{
+	  height: 5px;
+	  background-color:rgb(17, 17, 216);
+  }
+
 /*footer*/
 
   .main {
@@ -19,8 +29,8 @@
 	line-height: 550px;
 }
 footer{
-	position: ;
-	bottom: ;
+	height: ;
+}
 }
 .footer-distributed{
 	background-color: #292c2f;
@@ -124,7 +134,7 @@ footer{
  
 .footer-distributed .footer-company-about{
 	line-height: 20px;
-	color:  #92999f;
+	color: white;
 	font-size: 13px;
 	font-weight: normal;
 	margin: 0;
@@ -191,7 +201,7 @@ footer{
 
 .bg {
     /* The image used */
-    background-image: url("background2.jpeg");
+    background-image: url("white-walls-1764702.jpg");
   
     /* Half height */
     height: 50%;
@@ -204,8 +214,10 @@ footer{
 
 
   .pagebackground{
-	  background-image: url("25101.jpg");
+	  background-image: url("86373.jpg");
   }
+
+
 
 
 
