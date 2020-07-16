@@ -3,7 +3,7 @@
 .logo {
     background: url(logo.png);
     width: 337px;
-    height: 71px;
+    height: 70px;
 
   }
 
@@ -16,6 +16,25 @@
   .pr{
 	  height: 5px;
 	  background-color:rgb(17, 17, 216);
+  }
+
+ .navbar-collapse{
+	 
+ }
+
+
+  }
+  /*headings*/
+  .qr{
+	  height:3px;
+	width: 10%;
+	  background-color: blue;
+	  
+  }
+  .or{
+	  height:2px;
+	  width:7%;
+	  background-color: chocolate;
   }
 
 /*footer*/
